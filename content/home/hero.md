@@ -25,7 +25,7 @@ weight = 3
 
 +++
 
-FIRSTNAME FAMILYNAME
+Lisa Mussoi
 <br>
 <small>A short description of myself here</small>
 <br><br>
