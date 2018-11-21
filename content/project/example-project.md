@@ -3,13 +3,13 @@
 date = "2018-09-24"
 
 # Project title.
-title = "My project"
+title = "Histology"
 
 # Project summary to display on homepage.
-summary = "A short summary of my project."
+summary = "The exam arrive and the most difficult in BAC2 bio is the exam of histology. The syllabus have 200 pages, there are a lot of slide to study too and there are a pratic exam. We must to analyse some tissu with a microscope."
 
 # Optional image to display on homepage (relative to `static/img/` folder).
-image_preview = "project.jpg"
+image_preview = "Licorne.jpg"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
@@ -23,7 +23,7 @@ math = false
 
 # Optional featured image (relative to `static/img/` folder).
 [header]
-image = "headers/project-header.jpg"
+image = "pleurs-bebe.jpg"
 caption = "Image credit: **Trevor Cole** on Unsplash"
 +++
 
