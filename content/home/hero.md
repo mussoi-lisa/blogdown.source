@@ -13,7 +13,7 @@ weight = 3
 #   Deactivate an option by commenting out the line, prefixing it with `#`.
 [header]
   overlay_color = "#666"  # An HTML color value.
-  overlay_img = "headers/main-header.jpg"  # Image path relative to your `static/img/` folder.
+  overlay_img = "headers/les_jeunes_corses_se_passionnent_de_plus_en_plus_pour_l_astronomie_full_actu"  # Image path relative to your `static/img/les_jeunes_corses_se_passionnent_de_plus_en_plus_pour_l_astronomie_full_actu` folder.
   overlay_filter = 0.3  # Darken the image. Value in range 0-1.
 
 # Call to action button (optional).
@@ -27,7 +27,7 @@ weight = 3
 
 Lisa Mussoi
 <br>
-<small>A short description of myself here</small>
+<small> 18, student in Biology </small>
 <br><br>
 
 <script type="text/javascript">
