@@ -6,7 +6,7 @@ date = "2018-09-24"
 title = "Histology"
 
 # Project summary to display on homepage.
-summary = "The exam arrive and the most difficult in BAC2 bio is the exam of histology. The syllabus have 200 pages, there are a lot of slide to study too and there are a pratic exam. We must to analyse some tissu with a microscope."
+summary = "The exam arrives and the most difficult one in BAC bio is the exam of histology. The syllabus has 200 pages, there are a lot of slides to study too and there is a pratic exam. We must analyse some tissu with a miscroscope."
 
 # Optional image to display on homepage (relative to `static/img/` folder).
 image_preview = "Licorne.jpg"
